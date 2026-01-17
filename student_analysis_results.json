@@ -1,0 +1,262 @@
+{
+  "total_students": 20,
+  "statistics": {
+    "Math": {
+      "average": 81.8,
+      "median": 82.5,
+      "std_dev": 12.79,
+      "min": 60,
+      "max": 100
+    },
+    "Science": {
+      "average": 83.35,
+      "median": 81.0,
+      "std_dev": 10.58,
+      "min": 67,
+      "max": 100
+    },
+    "English": {
+      "average": 79.05,
+      "median": 80.5,
+      "std_dev": 13.0,
+      "min": 61,
+      "max": 97
+    },
+    "History": {
+      "average": 80.7,
+      "median": 82.0,
+      "std_dev": 11.24,
+      "min": 64,
+      "max": 96
+    },
+    "Geography": {
+      "average": 80.1,
+      "median": 79.0,
+      "std_dev": 12.62,
+      "min": 60,
+      "max": 99
+    }
+  },
+  "student_data": [
+    {
+      "id": 1,
+      "name": "Student 1",
+      "scores": {
+        "Math": 73,
+        "Science": 74,
+        "English": 82,
+        "History": 92,
+        "Geography": 60
+      }
+    },
+    {
+      "id": 2,
+      "name": "Student 2",
+      "scores": {
+        "Math": 62,
+        "Science": 91,
+        "English": 64,
+        "History": 92,
+        "Geography": 60
+      }
+    },
+    {
+      "id": 3,
+      "name": "Student 3",
+      "scores": {
+        "Math": 88,
+        "Science": 80,
+        "English": 86,
+        "History": 88,
+        "Geography": 99
+      }
+    },
+    {
+      "id": 4,
+      "name": "Student 4",
+      "scores": {
+        "Math": 72,
+        "Science": 67,
+        "English": 73,
+        "History": 77,
+        "Geography": 88
+      }
+    },
+    {
+      "id": 5,
+      "name": "Student 5",
+      "scores": {
+        "Math": 96,
+        "Science": 89,
+        "English": 93,
+        "History": 95,
+        "Geography": 67
+      }
+    },
+    {
+      "id": 6,
+      "name": "Student 6",
+      "scores": {
+        "Math": 79,
+        "Science": 91,
+        "English": 67,
+        "History": 66,
+        "Geography": 75
+      }
+    },
+    {
+      "id": 7,
+      "name": "Student 7",
+      "scores": {
+        "Math": 78,
+        "Science": 78,
+        "English": 64,
+        "History": 74,
+        "Geography": 92
+      }
+    },
+    {
+      "id": 8,
+      "name": "Student 8",
+      "scores": {
+        "Math": 60,
+        "Science": 98,
+        "English": 96,
+        "History": 82,
+        "Geography": 77
+      }
+    },
+    {
+      "id": 9,
+      "name": "Student 9",
+      "scores": {
+        "Math": 72,
+        "Science": 87,
+        "English": 97,
+        "History": 68,
+        "Geography": 99
+      }
+    },
+    {
+      "id": 10,
+      "name": "Student 10",
+      "scores": {
+        "Math": 100,
+        "Science": 100,
+        "English": 95,
+        "History": 92,
+        "Geography": 74
+      }
+    },
+    {
+      "id": 11,
+      "name": "Student 11",
+      "scores": {
+        "Math": 77,
+        "Science": 93,
+        "English": 95,
+        "History": 70,
+        "Geography": 79
+      }
+    },
+    {
+      "id": 12,
+      "name": "Student 12",
+      "scores": {
+        "Math": 90,
+        "Science": 81,
+        "English": 62,
+        "History": 88,
+        "Geography": 94
+      }
+    },
+    {
+      "id": 13,
+      "name": "Student 13",
+      "scores": {
+        "Math": 100,
+        "Science": 97,
+        "English": 67,
+        "History": 92,
+        "Geography": 69
+      }
+    },
+    {
+      "id": 14,
+      "name": "Student 14",
+      "scores": {
+        "Math": 97,
+        "Science": 72,
+        "English": 71,
+        "History": 81,
+        "Geography": 93
+      }
+    },
+    {
+      "id": 15,
+      "name": "Student 15",
+      "scores": {
+        "Math": 66,
+        "Science": 69,
+        "English": 83,
+        "History": 96,
+        "Geography": 66
+      }
+    },
+    {
+      "id": 16,
+      "name": "Student 16",
+      "scores": {
+        "Math": 86,
+        "Science": 79,
+        "English": 79,
+        "History": 64,
+        "Geography": 79
+      }
+    },
+    {
+      "id": 17,
+      "name": "Student 17",
+      "scores": {
+        "Math": 68,
+        "Science": 81,
+        "English": 82,
+        "History": 85,
+        "Geography": 79
+      }
+    },
+    {
+      "id": 18,
+      "name": "Student 18",
+      "scores": {
+        "Math": 87,
+        "Science": 75,
+        "English": 61,
+        "History": 64,
+        "Geography": 70
+      }
+    },
+    {
+      "id": 19,
+      "name": "Student 19",
+      "scores": {
+        "Math": 90,
+        "Science": 96,
+        "English": 95,
+        "History": 66,
+        "Geography": 87
+      }
+    },
+    {
+      "id": 20,
+      "name": "Student 20",
+      "scores": {
+        "Math": 95,
+        "Science": 69,
+        "English": 69,
+        "History": 82,
+        "Geography": 95
+      }
+    }
+  ]
+}
